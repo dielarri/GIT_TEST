@@ -1,0 +1,4 @@
+# Ignore any bianaries and emacs backups.
+main
+*.o
+*~
